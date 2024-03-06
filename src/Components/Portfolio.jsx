@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/mountains-8587802_1920.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Snowing mountains have a better and cool look that admires our will of living in this beautiful world";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Apply 45 Strong class method in python ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      " In this i apply 45 strong class methods to determine and extract different claases in various ways.",
+    url: "https://github.com/usmangujjar009/Apply-45-Strong-Method-class_3-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Hello World with 6 different IDE's",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Inthis program we execute the code of hello world with 6 different IDE's like jupyter notebook,anaconda,vs code e.t.c",
+    url: "https://github.com/usmangujjar009/Hello-word-with-6-different-IDE-s",
   },
   {
-    title: "My Resume Site",
+    title: "Restaurant managment system",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      ". In this project we make restaurant managment system on java in which a client can order some food from our managment system and client will get that food bill also.In this ysytem we also add up the data of the stuuf available in our store.",
+    url: "https://github.com/usmangujjar009/Restaurant-System",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "A.I slides ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "In this repository i have some valuable slide sof artificial intelligence and data science and their use in our daily base life.",
+    url: "https://github.com/usmangujjar009/Saylani-Data-Science-Course",
   },
 ];
 
